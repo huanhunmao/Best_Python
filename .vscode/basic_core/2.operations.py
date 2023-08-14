@@ -43,6 +43,7 @@
 #     print(i) # 0-9
 # for i in range(5):
 #     print(i) # 0-4
+# print(list(range(10))) # [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 # list comprehension
 # x = [1,2,3,4,5]

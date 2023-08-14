@@ -33,6 +33,9 @@
 # list.append('hi')
 # print(list) # [1, 2, 3, 'hi']
 # print(list[0]) # 1
+# print(list.pop()) # 3
+# print('x' in list) # False
+# print('x' in ['x','y','z']) # True
 
 # 类似 js  slice 截取 功能
 # print(list[:1])  # [0,1) 左闭右开
@@ -48,6 +51,7 @@
 # # print(d.key1) # Error
 # print(d.keys())  # dict_keys(['key1', 'key2'])
 # print(d.values()) # dict_values(['item1', 'item2'])
+# print(d.items()) # dict_items([('key1', 'item1'), ('key2', 'item2')])
 
 # Booleans  和js 不一样 首字母大写
 # print(true) # Error 
